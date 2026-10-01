@@ -1,0 +1,3 @@
+cd ~/eeg-pipeline-rebuild/COMPSCI/COMPNEURO-COMLEX-NETWORK/CommunicationExperiments
+source .venv/bin/activate
+PYTHONPATH=../LegacyFiles:../Core python3 two_neuron_communication.py
