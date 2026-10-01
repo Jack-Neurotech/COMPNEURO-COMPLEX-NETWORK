@@ -1,0 +1,2 @@
+cd ~/eeg-pipeline-rebuild/COMPSCI/COMPNEURO-COMLEX-NETWORK/LearningExperiments
+PYTHONPATH=../Core:../LegacyFiles python3 stdp_network_experiment.py
